@@ -7,16 +7,16 @@
 
 **Thoughts:** Excited to get started on this course, so I figured I would jump into 100DaysofCode as well.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Setting up Slack Channel and working environment.](https://www.udacity.com/grow-with-google)
 
 ### Day 001: January 13, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed exercises for Favorite Toys app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Android Studio really makes it easy to start working on your own projects.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Favorite Toys](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys)
 
 
 ### Day 002: January 14, 2018
