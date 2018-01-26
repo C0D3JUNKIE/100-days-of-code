@@ -22,25 +22,25 @@
 ### Day 002: January 14, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Setting up GIT and GitHub project structure etc.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** GIT is a lot easier than you think.  Start using it daily and it will become second nature.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [GIT](https://git-scm.com/)
+2. [GitHub](https://github.com/)
 
 ### Day 003: January 15, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Complete Lesson 1 Exercises.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Favorite Toys app is simple app utilizing Frame and Linear Layouts and scrolling.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout)
+2. [Exercise 2](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList)
+3. [Exercise 3](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling)
 
 ### Day 004: January 16, 2018
 ##### Google Developer Scholarship Challenge
