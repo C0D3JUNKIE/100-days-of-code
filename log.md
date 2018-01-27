@@ -103,9 +103,9 @@
 ### Day 008: January 20, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: Completed Sunshine app xercises 1-2 in Lesson 6.
+**Today's Progress**: Completed Sunshine app Exercises 1-2 in Lesson 6.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Think about making Sunshine more robust.  Maybe add an outdoor activity tides, moonphases, etc. and an allergy/pollutant activity.
 
 **Link(s) to work**
 1. [S03.01-Exercise-RecyclerView](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S03.01-Exercise-RecyclerView)
