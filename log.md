@@ -69,3 +69,16 @@
 1. [T03.01-Exercise-RecyclerViewLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.01-Exercise-RecyclerViewLayout)
 2. [T03.02-Exercise-ViewHolder](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder)
 2. [T03.03-Exercise-RecyclerViewAdapter](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.03-Exercise-RecyclerViewAdapter)
+
+### Day 006: January 18, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Completed exercises 4-7 for Lesson 3 Green Recycler View.
+
+**Thoughts** Know this:  OK recyclerview is important.  Create a ViewHolder object to hold the recyclerview objects.  Run getItemCount.  Bind data with onBindViewHolder, and inflate onCreateViewHolder.
+
+**Link(s) to work**
+1. [T03.04-Exercise-WiringUpRecyclerView](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.04-Exercise-WiringUpRecyclerView)
+2. [T03.05-Exercise-GoingGreen](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.05-Exercise-GoingGreen)
+3. [T03.06-Exercise-RefreshMenuButton](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.06-Exercise-RefreshMenuButton)
+4. [T03.07-Exercise-RecyclerViewClickHandling](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.07-Exercise-RecyclerViewClickHandling)
