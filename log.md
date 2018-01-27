@@ -151,3 +151,16 @@
 3. [T05a.03-Exercise-FixLifeCycleDisplayBug](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05a-Android-Lifecycle/T05a.03-Exercise-FixLifeCycleDisplayBug)
 
 
+### Day 012: January 24, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Android has a Loader framework that offers a powerful (yet simple) way to asynchronously load data from content providers or other data sources. For instance an SQLite database, network operation, et al. in an Activity or a Fragment (clients).
+
+**Thoughts** Loaders are loaders etc.
+
+**Link(s) to work**
+1. [T05b.01-Exercise-SaveResults](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults)
+2. [T05b.02-Exercise-AddAsyncTaskLoader](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.02-Exercise-AddAsyncTaskLoader)
+3. [T05b.03-Exercise-PolishAsyncTask](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.03-Exercise-PolishAsyncTask)
+
+
