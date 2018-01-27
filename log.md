@@ -175,3 +175,15 @@
 1. [S05.01-Exercise-AsyncTaskLoader](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S05.01-Exercise-AsyncTaskLoader)
 
 
+### Day 014: January 26, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Started Lesson 6 and completed Exercises 1 and 2
+
+**Thoughts** Everyone likes something a little different ... master the preferences!
+
+**Link(s) to work**
+1. [T06.01-Exercise-SetupTheActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.01-Exercise-SetupTheActivity)
+2. [T06.02-Exercise-MakeAPreferenceFragment](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment)
+
+
