@@ -30,6 +30,7 @@
 1. [GIT](https://git-scm.com/)
 2. [GitHub](https://github.com/)
 
+
 ### Day 003: January 15, 2018
 ##### Google Developer Scholarship Challenge
 
@@ -41,6 +42,7 @@
 1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout)
 2. [Exercise 2](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList)
 3. [Exercise 3](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling)
+
 
 ### Day 004: January 16, 2018
 ##### Google Developer Scholarship Challenge
@@ -70,6 +72,7 @@
 2. [T03.02-Exercise-ViewHolder](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder)
 2. [T03.03-Exercise-RecyclerViewAdapter](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.03-Exercise-RecyclerViewAdapter)
 
+
 ### Day 006: January 18, 2018
 ##### Google Developer Scholarship Challenge
 
@@ -82,3 +85,16 @@
 2. [T03.05-Exercise-GoingGreen](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.05-Exercise-GoingGreen)
 3. [T03.06-Exercise-RefreshMenuButton](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.06-Exercise-RefreshMenuButton)
 4. [T03.07-Exercise-RecyclerViewClickHandling](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.07-Exercise-RecyclerViewClickHandling)
+
+
+### Day 007: January 19, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Completed exercises 1-3 for Lesson 4a Starting New Activity.
+
+**Thoughts** An activity represents a single screen with a user interface,in-short Activity performs actions on the screen.  Activity is a Java class as the parent of any NameActivity.
+
+**Link(s) to work**
+1. [T04a.01-Exercise-AddNewActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.01-Exercise-AddNewActivity)
+2. [T04a.02-Exercise-StartNewActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.02-Exercise-StartNewActivity)
+3. [T04a.03-Exercise-PassingDataBetweenActivities](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.03-Exercise-PassingDataBetweenActivities)
