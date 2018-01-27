@@ -98,3 +98,15 @@
 1. [T04a.01-Exercise-AddNewActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.01-Exercise-AddNewActivity)
 2. [T04a.02-Exercise-StartNewActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.02-Exercise-StartNewActivity)
 3. [T04a.03-Exercise-PassingDataBetweenActivities](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04a-Starting-New-Activities/T04a.03-Exercise-PassingDataBetweenActivities)
+
+
+### Day 008: January 20, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Completed Sunshine app xercises 1-2 in Lesson 6.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [S03.01-Exercise-RecyclerView](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S03.01-Exercise-RecyclerView)
+2. [S03.02-Exercise-RecyclerViewClickHanding](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S03.02-Exercise-RecyclerViewClickHandling)
