@@ -7,7 +7,7 @@
 
 **Thoughts:** Excited to get started on this course, so I figured I would jump into 100DaysofCode as well.
 
-**Link to work:** [Setting up Slack Channel and working environment.](https://www.udacity.com/grow-with-google)
+**Link to work:** [Check out Udacity.](https://www.udacity.com/grow-with-google)
 
 ### Day 001: January 13, 2018
 ##### Google Developer Scholarship Challenge
@@ -50,8 +50,8 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [T02 01 - Exercise - CreateLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout)
-2. [T02 02 - Exercise - AddMenu](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu)
+1. [T02 - 01 - Exercise - CreateLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout)
+2. [T02 - 02 - Exercise - AddMenu](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu)
 2. [T02 - 03 - Exercise - DisplayUrl](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.03-Exercise-DisplayUrl)
 2. [T02 - 04 - Exercise - ConnectingToTheInternet](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.04-Exercise-ConnectingToTheInternet)
 2. [T02 - 05 - Exercise - CreateAsyncTask](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask)
