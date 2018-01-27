@@ -45,13 +45,17 @@
 ### Day 004: January 16, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed all exercises in Lesson 2 - Create a GitHub Repo search application.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [T02 01 - Exercise - CreateLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout)
+2. [T02 02 - Exercise - AddMenu](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.02-Exercise-AddMenu)
+2. [T02 - 03 - Exercise - DisplayUrl](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.03-Exercise-DisplayUrl)
+2. [T02 - 04 - Exercise - ConnectingToTheInternet](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.04-Exercise-ConnectingToTheInternet)
+2. [T02 - 05 - Exercise - CreateAsyncTask](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask)
+2. [T02 - 06 - Exercise - AddPolish](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.06-Exercise-AddPolish)
 
 
 ### Day 005: January 17, 2018
