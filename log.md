@@ -47,7 +47,7 @@
 
 **Today's Progress**: Completed all exercises in Lesson 2 - Create a GitHub Repo search application.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Looking forward to enhancing this app to make it search for GitHub repos, accounts, and gist code spinnets for future use.
 
 **Link(s) to work**
 1. [T02 - 01 - Exercise - CreateLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson02-GitHub-Repo-Search/T02.01-Exercise-CreateLayout)
@@ -61,117 +61,11 @@
 ### Day 005: January 17, 2018
 ##### Google Developer Scholarship Challenge
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed exercises 1-3 for Lesson 3 Green Recycler View.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 006: January 18, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** OK recyclerview is important.  Lets digest some of this:  Create a ViewHolder object to hold the recyclerview objects.  Run getItemCount.  Bind data with onBindViewHolder, and inflate onCreateViewHolder.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 007: January 19, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 008: January 20, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 009: January 21, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-### Day 010: January 22, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 011: January 23, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 012: January 24, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 013: January 25, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day 014: January 26, 2018
-##### Google Developer Scholarship Challenge
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [T03.01-Exercise-RecyclerViewLayout](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.01-Exercise-RecyclerViewLayout)
+2. [T03.02-Exercise-ViewHolder](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.02-Exercise-ViewHolder)
+2. [T03.03-Exercise-RecyclerViewAdapter](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson03-Green-Recycler-View/T03.03-Exercise-RecyclerViewAdapter)
