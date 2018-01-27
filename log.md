@@ -136,3 +136,18 @@
 1. [S04b.01-Exercise-OpenWebPage](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.01-Exercise-OpenWebpage)
 2. [S04b.02-Exercise-OpenMap](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.02-Exercise-OpenMap)
 3. [S04b.03-Exercise-ShareText](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.03-Exercise-ShareText)
+
+
+### Day 011: January 23, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Completed Exercises 1 - 3 for Lesson 5a.
+
+**Thoughts** As a user navigates through, out of, and back to your app, the Activity instances in your app transition through different states in their lifecycle. The Activity class provides a number of callbacks that allow the activity to know that a state has changed: that the system is creating, stopping, or resuming an activity, or destroying the process in which the activity resides.
+
+**Link(s) to work**
+1. [T05a.01-Exercise-LogLifecycle](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05a-Android-Lifecycle/T05a.01-Exercise-LogLifecycle)
+2. [T05a.02-Exercise-PersistData](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05a-Android-Lifecycle/T05a.02-Exercise-PersistData)
+3. [T05a.03-Exercise-FixLifeCycleDisplayBug](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05a-Android-Lifecycle/T05a.03-Exercise-FixLifeCycleDisplayBug)
+
+
