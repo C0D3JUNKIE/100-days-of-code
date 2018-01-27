@@ -164,3 +164,14 @@
 3. [T05b.03-Exercise-PolishAsyncTask](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.03-Exercise-PolishAsyncTask)
 
 
+### Day 013: January 25, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Sunshines Apps implementation of the AsyncTaskLoader.
+
+**Thoughts** Loaders
+
+**Link(s) to work**
+1. [S05.01-Exercise-AsyncTaskLoader](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S05.01-Exercise-AsyncTaskLoader)
+
+
