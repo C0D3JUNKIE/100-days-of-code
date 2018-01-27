@@ -110,3 +110,29 @@
 **Link(s) to work**
 1. [S03.01-Exercise-RecyclerView](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S03.01-Exercise-RecyclerView)
 2. [S03.02-Exercise-RecyclerViewClickHanding](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S03.02-Exercise-RecyclerViewClickHandling)
+
+
+### Day 009: January 21, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Complete Sunshine exercise 1-3 for Lesson 4.
+
+**Thoughts** Launch new activity, display new activity, and share a new activity.
+
+**Link(s) to work**
+1. [S04.01-Exercise-LaunchNewActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S04.01-Exercise-LaunchNewActivity)
+2. [S04.02-Exercise-DisplayDayForecast](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S04.02-Exercise-DisplayDayForecast)
+3. [S04.03-Exercise-AddMapAndSharing](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S04.03-Exercise-AddMapAndSharing)
+
+
+### Day 010: January 22, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Completed Lesson 4b Exercises 1-3.
+
+**Thoughts** Be open and share.
+
+**Link(s) to work**
+1. [S04b.01-Exercise-OpenWebPage](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.01-Exercise-OpenWebpage)
+2. [S04b.02-Exercise-OpenMap](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.02-Exercise-OpenMap)
+3. [S04b.03-Exercise-ShareText](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.03-Exercise-ShareText)
