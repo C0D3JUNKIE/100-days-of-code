@@ -187,3 +187,11 @@
 2. [T06.02-Exercise-MakeAPreferenceFragment](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment)
 
 
+### Day 015: January 27, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Worked on documentation.
+
+**Thoughts** It sucks and takes time.
+
+
