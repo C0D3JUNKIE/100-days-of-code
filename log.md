@@ -195,7 +195,7 @@
 **Thoughts** It sucks and takes time.
 
 
-### Day 016: January 27, 2018
+### Day 016: January 28, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Started Lesson 6 and completed Exercises 1 and 2
@@ -207,7 +207,7 @@
 2. [T06.02-Exercise-MakeAPreferenceFragment](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment)
 
 
-### Day 017: January 28, 2018
+### Day 017: January 29, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Forked awesome-android-ui and worked on personal Sunshine app.
@@ -218,7 +218,7 @@
 2. [Personal Sunshine App](https://github.com/C0D3JUNKIE/Sunshine_C0d3junkie)
 
 
-### Day 018: January 29, 2018
+### Day 018: January 30, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Forked Firebase in a Weekend and worked on GDCS.
@@ -230,7 +230,7 @@
 3. [Firebase in a Weekend](https://github.com/C0D3JUNKIE/and-nd-firebase)
 
 
-### Day 019: January 30, 2018
+### Day 019: January 31, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Started Lesson 6 and completed Exercises 1 and 2
@@ -242,7 +242,7 @@
 3. [Firebase Quickstart Examples for Android](https://github.com/C0D3JUNKIE/quickstart-android)
 
 
-### Day 020: January 31, 2018
+### Day 020: February 1, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Uploaded Sunshine exercises for Lesson 6
@@ -253,7 +253,7 @@
 2. [Firebase Quickstart Examples for Android](https://github.com/C0D3JUNKIE/quickstart-android)
 
 
-### Day 021: February 1, 2018
+### Day 021: February 2, 2018
 ##### Google Developer Scholarship Challenge
 
 **Today's Progress**: Opened some issues with GDCS
@@ -262,7 +262,7 @@
 
 
 
-### Day 022: February 2, 2018
+### Day 022: February 3, 2018
 ##### Oracle Certified Associate - Java SE 8 Programmer I
 
 **Today's Progress**: Started code examples for the OCA certification
@@ -272,7 +272,7 @@
 https://bitbucket.org/
 
 
-### Day 023: February 3, 2018
+### Day 023: February 4, 2018
 ##### Oracle Certified Associate - Java SE 8 Programmer I
 
 **Today's Progress**: Went through all of Chapter 3 - Java APIs
@@ -280,7 +280,7 @@ https://bitbucket.org/
 **Thoughts** GIT IS the shizzzz!
 
 
-### Day 024: February 4, 2018
+### Day 024: February 5, 2018
 ##### Oracle Certified Associate - Java SE 8 Programmer I
 
 **Today's Progress**: Finished code examples of chapter 3.
@@ -288,7 +288,7 @@ https://bitbucket.org/
 **Thoughts** Checkin out Atlassian tools.  Love the various tools:  Trello etc.
 
 
-### Day 025: February 5, 2018
+### Day 025: February 6, 2018
 ##### Oracle Certified Associate - Java SE 8 Programmer I
 
 **Today's Progress**: Starting Chapter Four OCA stuff.
