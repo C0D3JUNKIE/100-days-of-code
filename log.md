@@ -195,3 +195,102 @@
 **Thoughts** It sucks and takes time.
 
 
+### Day 016: January 27, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Started Lesson 6 and completed Exercises 1 and 2
+
+**Thoughts** Everyone likes something a little different ... master the preferences!
+
+**Link(s) to work**
+1. [T06.01-Exercise-SetupTheActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.01-Exercise-SetupTheActivity)
+2. [T06.02-Exercise-MakeAPreferenceFragment](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.02-Exercise-MakeAPreferenceFragment)
+
+
+### Day 017: January 28, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Forked awesome-android-ui and worked on personal Sunshine app.
+
+**Thoughts** Looking at various ui tools for android dev!
+
+1. [awesome-android-ui](https://github.com/C0D3JUNKIE/awesome-android-ui)
+2. [Personal Sunshine App](https://github.com/C0D3JUNKIE/Sunshine_C0d3junkie)
+
+
+### Day 018: January 29, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Forked Firebase in a Weekend and worked on GDCS.
+
+**Thoughts** Preferences in Android are awesome.
+
+1. [T06.07-Exercise-ListPreference](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.07-Exercise-ListPreference)
+2. [T06.08-Exercise-PreferenceSummary](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.08-Exercise-PreferenceSummary)
+3. [Firebase in a Weekend](https://github.com/C0D3JUNKIE/and-nd-firebase)
+
+
+### Day 019: January 30, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Started Lesson 6 and completed Exercises 1 and 2
+
+**Thoughts** Everyone likes something a little different ... master the preferences!
+
+1. [T06.09-Exercise-EditTextPreference](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.09-Exercise-EditTextPreference)
+2. [T06.10-Exercise-EditTextPreferenceConstraints](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson06-Visualizer-Preferences/T06.10-Exercise-EditTextPreferenceConstraints)
+3. [Firebase Quickstart Examples for Android](https://github.com/C0D3JUNKIE/quickstart-android)
+
+
+### Day 020: January 31, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Uploaded Sunshine exercises for Lesson 6
+
+**Thoughts** Excited to checkout Firebase for backend work.
+
+1. [T06.01-Exercise-LaunchSettingsActivity](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacitySunshine/S06.01-Exercise-LaunchSettingsActivity)
+2. [Firebase Quickstart Examples for Android](https://github.com/C0D3JUNKIE/quickstart-android)
+
+
+### Day 021: February 1, 2018
+##### Google Developer Scholarship Challenge
+
+**Today's Progress**: Opened some issues with GDCS
+
+**Thoughts** Gonna switch gears and pickup Java certification real quick.
+
+
+
+### Day 022: February 2, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started code examples for the OCA certification
+
+**Thoughts** Moved code examples to Bitbucket.  I love Github but Bitbucket gives me private repos for free :)
+
+https://bitbucket.org/
+
+
+### Day 023: February 3, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Went through all of Chapter 3 - Java APIs
+
+**Thoughts** GIT IS the shizzzz!
+
+
+### Day 024: February 4, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Finished code examples of chapter 3.
+
+**Thoughts** Checkin out Atlassian tools.  Love the various tools:  Trello etc.
+
+
+### Day 025: February 5, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Starting Chapter Four OCA stuff.
+
+**Thoughts** Excited to get this Java work over with and move onto OCP and Android certs.
