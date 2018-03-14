@@ -294,3 +294,42 @@ https://bitbucket.org/
 **Today's Progress**: Starting Chapter Four OCA stuff.
 
 **Thoughts** Excited to get this Java work over with and move onto OCP and Android certs.
+
+### Day 026: February 7, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Starting Chapter Five OCA stuff.
+
+**Thoughts** OCA cert is a tricky business.
+
+
+### Day 027: February 8, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Working on Chapter Five OCA stuff.
+
+**Thoughts** Moving more slowly on OCA than I thought.
+
+
+### Day 028: February 9, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Starting Chapter Six for OCA Certificaiton.
+
+**Thoughts** I am so sick of Test questions.
+
+
+### Day 029: February 10, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Finishing Chapter Six OCA stuff.
+
+**Thoughts** My initial excitement has turned.
+
+
+### Day 030: February 11, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing OCA Chapter One again.
+
+**Thoughts** Ughhh!
