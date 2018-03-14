@@ -429,3 +429,169 @@ https://bitbucket.org/
 **Today's Progress**: Enthuware Test Two
 
 **Thoughts** Blahhhhh
+
+
+### Day 043: February 24, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Test Questions and Answers
+
+**Thoughts** Nothing to report .. Nothing to see here move along.
+
+
+
+### Day 044: February 25, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Still reviewing incorrect responses.
+
+**Thoughts** Enthuware is good but they write their questions funny like.
+
+
+
+### Day 045: February 26, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Testing work.
+
+**Thoughts** Writing coding examples.
+
+
+
+### Day 046: February 27, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Test 3.
+
+**Thoughts** Feeling good got a high score on this exam.  Woot.
+
+
+### Day 047: February 28, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing Test Three incorrect answers.
+
+**Thoughts** End of month and running out of time.
+
+
+
+### Day 048: March 1, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing all of the previous tests.
+
+**Thoughts** Review and re-review.
+
+
+### Day 049: March 2, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Prepping for all test four.
+
+**Thoughts** prep prep prep.
+
+
+
+### Day 050: March 3, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Test Four
+
+**Thoughts** Results were the worst yet.
+
+
+### Day 051: March 4, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing missed questions.
+
+**Thoughts** Feeling really frustrated and discouraged.  Not sure all this time is worth it.  I know I can code.
+
+
+
+### Day 052: March 5, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Need a break.
+
+**Thoughts** Taking a day off not feeling good about my OCA work.  I have taken time off of Android Google Scholarship and I am pissed.  I hope im not wasting my time.
+
+
+
+### Day 053: March 6, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Shopping for alternative tests.
+
+**Thoughts** Settled on Whizlabs.  Going to try taking a  new set of tests to see how I do on them.
+
+
+
+### Day 054: March 7, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started with Whizlabs review and test prep.
+
+**Thoughts** Not happy right now ... feeling really discouraged.
+
+
+
+### Day 055: March 8, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Took Whizlabs preliminary test and scored ok.  Not great but ok.
+
+**Thoughts** Maybe its just me.
+
+
+
+### Day 056: March 9, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing Whizlab work
+
+**Thoughts** Do not want to continue
+
+
+### Day 057: March 10, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: I know I am running out of time for OCA and my Google Scholarship.
+
+**Thoughts** Worried
+
+
+### Day 058: March 11, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing all tests and preparing to take another full exam.
+
+**Thoughts** Tired.
+
+
+### Day 059: March 12, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: M0re test prep.
+
+**Thoughts** Starting to look at my Google Dev Scholarship work.  Need to get back on that horse.
+
+
+### Day 060: March 13, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Test prep and looking over previous Udacity work.
+
+**Thoughts** Discouraged.
+
+
+### Day 061: March 14, 2018 - 3.14 PIE DAY
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
