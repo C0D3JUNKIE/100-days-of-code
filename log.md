@@ -333,3 +333,99 @@ https://bitbucket.org/
 **Today's Progress**: Reviewing OCA Chapter One again.
 
 **Thoughts** Ughhh!
+
+
+### Day 031: February 12, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Finishing Chapter One.
+
+**Thoughts** I can not think anymore.
+
+
+### Day 032: February 13, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Beginning Chapter Two of the OCA cert book.
+
+**Thoughts** Want to quit pursuing certification.  The questions seemed just designed to confuse you!!!
+
+
+### Day 033: February 14, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Working on Chapter Two OCA stuff.
+
+**Thoughts** Valentines Day yea! ummmm.
+
+
+### Day 034: February 15, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Still on Chapter Two OCA stuff.
+
+**Thoughts** Just need to get each section locked down.
+
+
+### Day 035: February 16, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Finishing up Chapter Two for OCA certificaitons.
+
+**Thoughts** To think that I want to get my OCP.
+
+
+### Day 036: February 17, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Beginning Enthuwares test prep questions.
+
+**Thoughts** First Test was not bad feeling pretty good.
+
+
+### Day 037: February 18, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Working on Enthuwares test prep questions.
+
+**Thoughts** Feeling pretty good.
+
+
+### Day 038: February 19, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuwares test questions are confusing
+
+**Thoughts** It's like they want me to be wrong.
+
+
+### Day 039: February 20, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Testing
+
+**Thoughts** No thoughts 
+
+
+### Day 040: February 21, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware
+
+**Thoughts** Just attitude.
+
+
+### Day 041: February 22, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Reviewing incorrect answers from Test One
+
+**Thoughts** .
+
+
+### Day 042: February 23, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Enthuware Test Two
+
+**Thoughts** Blahhhhh
