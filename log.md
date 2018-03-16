@@ -595,3 +595,13 @@ https://bitbucket.org/
 **Link(s) to work**
 1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
 
+
+### Day 062: March 15, 2018 
+##### Oracle Certified Associate - Java SE 8 Programmer I and Udacity Google Scholarship
+
+**Today's Progress**: Completed Lesson 7 Exercise 1 - 3
+
+**Thoughts** Still trying to plow through OCA requirements.
+
+**Link(s) to work**
+1. [Lesson 7](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist)
