@@ -605,3 +605,14 @@ https://bitbucket.org/
 
 **Link(s) to work**
 1. [Lesson 7](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist)
+
+
+### Day 063: March 16, 2018 
+##### Oracle Certified Associate - Java SE 8 Programmer I and Udacity Google Scholarship
+
+**Today's Progress**: Completed Lesson 7 Exercise 4 - 6
+
+**Thoughts** Just did not get enough done today.
+
+**Link(s) to work**
+1. [Lesson 7](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist)
