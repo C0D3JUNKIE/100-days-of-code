@@ -616,3 +616,366 @@ https://bitbucket.org/
 
 **Link(s) to work**
 1. [Lesson 7](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist)
+
+
+### Day 064: March 17, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 065: March 18, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 066: March 19, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 067: March 20, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 068: March 21, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 069: March 22, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 070: March 23, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 071: March 24, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 072: March 25, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 073: March 26, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 074: March 27, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 075: March 28, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 076: March 29, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 077: March 30, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 078: March 31, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 079: April 01, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 080: April 02, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 081: April 03, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 082: April 04, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 083: April 05, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 084: April 06, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 085: April 07, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 086: April 08, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 087: April 09, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 088: April 10, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 089: April 11, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 090: April 12, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 091: April 13, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 092: April 14, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 093: April 15, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 094: April 16, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 095: April 17, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
+
+
+### Day 096: April 18, 2018
+##### Oracle Certified Associate - Java SE 8 Programmer I
+
+**Today's Progress**: Started Udacity Exercises for Lesson 7
+
+**Thoughts** Pissed that I have taken a month for OCA prep and its still not done.
+
+**Link(s) to work**
+1. [Exercise 1](https://github.com/C0D3JUNKIE/GDCS/tree/master/UdacityExercises/Lesson07-Waitlist/T07.01-Exercise-CreateAContract)
